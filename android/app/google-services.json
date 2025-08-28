@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422340379390",
+    "project_id": "empacaduras-calc-daniel-01",
+    "storage_bucket": "empacaduras-calc-daniel-01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422340379390:android:38f0fc7334e41318399baf",
+        "android_client_info": {
+          "package_name": "com.example.empacaduras_calc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCopXrtiK35poauYXBPSb9JiQgYfkcnHIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
